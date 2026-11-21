@@ -1,0 +1,5 @@
+model,WAPE,bias,mean_poisson_deviance
+Poisson GLM (explainable),0.434,-0.0143,1.1368
+"moving average, 4 weeks",0.5647,0.1015,1.7717
+"moving average, 8 weeks",0.5548,0.1183,1.6521
+oracle: true simulated mean,0.4324,-0.0076,1.1294

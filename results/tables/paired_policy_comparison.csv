@@ -1,0 +1,3 @@
+comparison,mean_weekly_profit_gain,ci95_low,ci95_high,share_of_weeks_better
+stochastic LP minus heuristic split by historical share,2079.9,2060.0,2099.9,1.0
+stochastic LP minus deterministic LP on point forecast,2233.8,2213.6,2254.0,1.0

@@ -1,0 +1,8 @@
+parameter,true,estimate,ci_low,ci_high,true_inside_95ci
+promotion lift (log),0.35,0.336,0.275,0.397,True
+price elasticity,-1.2,-1.28,-1.553,-1.008,True
+"seasonal amplitude, outerwear",0.55,0.56,0.507,0.613,True
+"seasonal amplitude, dresses",-0.45,-0.438,-0.5,-0.377,True
+"seasonal amplitude, denim",0.05,0.055,0.017,0.094,True
+"seasonal amplitude, knitwear",0.4,0.408,0.355,0.46,True
+"seasonal amplitude, activewear",-0.15,-0.187,-0.233,-0.14,True

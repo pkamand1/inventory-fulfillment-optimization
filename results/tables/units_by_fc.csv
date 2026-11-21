@@ -1,0 +1,5 @@
+fc,capacity,heuristic,deterministic_lp,stochastic_lp
+FC-East,560,528.0,532.0,559.0
+FC-Central,480,453.0,452.0,478.0
+FC-South,420,388.0,388.0,419.0
+FC-West,560,531.0,524.0,559.0

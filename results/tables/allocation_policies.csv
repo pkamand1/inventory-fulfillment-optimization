@@ -1,0 +1,4 @@
+policy,units_allocated,mean_weekly_profit,profit_5th_percentile,fill_rate,shipping_cost_per_unit,units_left_over,profit_vs_heuristic
+1. heuristic split by historical share,1900,47822.0,46975.0,0.8988,6.52,86.3,0.0
+2. deterministic LP on point forecast,1896,47668.0,46830.0,0.8973,6.58,85.3,-0.0032
+3. stochastic LP over 60 scenarios,2015,49902.0,48708.0,0.9216,6.4,155.1,0.0435
